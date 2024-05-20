@@ -7,7 +7,7 @@ import call_icon from '../../assets/call_icon.svg'
 
 const Contact = () =>{
     return (
-        <div className="contact">
+        <div id = 'contact' className="contact">
             <div className="contact-title">
                 <h2>Reach Out</h2>
                 <img src={theme_pattern} alt="Space for Theme Pattern" />

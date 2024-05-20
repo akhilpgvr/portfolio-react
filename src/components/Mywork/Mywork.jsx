@@ -6,7 +6,7 @@ import arrorw_icon from '../../assets/arrow_icon.svg'
 
 const Mywork = () => {
   return (
-    <div className='mywork'>
+    <div id = 'work' className='mywork'>
       <div className="mywork-title">
         <h2>My Works</h2>
         <img src={theme_pattern} alt="Space for theme image " />
