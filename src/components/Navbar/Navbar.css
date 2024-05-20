@@ -36,6 +36,7 @@
     text-decoration: none;
     color: white;
 }
+/*for making page responsive */
 .nav-mob-close{
     display: none;
 }

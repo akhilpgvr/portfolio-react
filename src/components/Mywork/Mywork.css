@@ -54,6 +54,7 @@
     gap: 30px;
     transition: 0.6s;
 }
+/*for making page responsive */
 @media(max-width: 768px){
     .mywork{
         gap: 50px;
